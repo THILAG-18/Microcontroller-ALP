@@ -1,0 +1,2 @@
+ALP for configuring ADC in Atmega 8 to convert a 5V input(PC0) to it's equivalent digital and once the conversion completes it Turn ON a LED across (PB5).
+\\Connection- PC0 to 5V
